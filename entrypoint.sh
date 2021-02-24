@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ash
 
 if [[ -n "${PROTOCOL}" ]]; then
   PROTOCOL="--protocol=${PROTOCOL}"
