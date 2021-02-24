@@ -1,4 +1,4 @@
-# openvpn
+# Openconnect + SSH
 Minimalistic image to provide VPN connectivity with ssh server
 [Docker hub](https://hub.docker.com/r/zhdkirill/openconnect-ssh)
 
